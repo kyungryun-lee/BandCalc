@@ -91,8 +91,8 @@
         Otherwise, you can specify specific domains:
     -->
 
-	<gap:plugin name="org.arpache.cordova.dialogs"	/>
-	<gap:plugin name="org.arpache.cordova.vibration"	/>
+	<gap:plugin name="org.apache.cordova.dialogs"	/>
+	<gap:plugin name="org.apache.cordova.vibration"	/>
 	
     <access origin="http://127.0.0.1*"/> <!-- allow local pages -->
     <!--

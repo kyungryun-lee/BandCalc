@@ -47,7 +47,7 @@
     <icon gap:platform="webos" src="res/icon/webos/icon-64.png" />
     <icon gap:platform="winphone" src="res/icon/windows-phone/icon-48.png" />
     <icon gap:platform="winphone" gap:role="background" src="res/icon/windows-phone/icon-173.png" />
-    <gap:plugin name="org.arpache.cordova.dialogs" />
-    <gap:plugin name="org.arpache.cordova.vibration" />
+    <gap:plugin name="org.apache.cordova.dialogs" />
+    <gap:plugin name="org.apache.cordova.vibration" />
     <access origin="http://127.0.0.1*" />
 </widget>
